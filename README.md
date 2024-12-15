@@ -1,5 +1,5 @@
 # Face-anti-spoofing-using-YOLO-and-ResAtt
-This is a project for the Introduction to Artificial Intelligence course at HUS. With your research of face anti-spoofing, hopefully this project will assist you.
+This is a project for the Introduction to Artificial Intelligence course. With your research of face anti-spoofing, hopefully this project will assist you.
 
 ## Pipeline
 ![image](https://github.com/user-attachments/assets/a79cd905-6315-4f64-8a73-22beb062b966)
